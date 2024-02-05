@@ -1,0 +1,25 @@
+{
+    "me": "Python",
+    "pi": 3.141592653589,
+    "data": [
+        1,
+        2,
+        4,
+        8
+    ],
+    "list": [
+        1,
+        2.34,
+        true,
+        "False",
+        null,
+        [
+            "a",
+            0
+        ]
+    ],
+    "set": null,
+    "movie": "\"The Meaning of Life\" by Monty Python's Flying Circus",
+    "emptyList": [],
+    "emptyDict": {}
+}

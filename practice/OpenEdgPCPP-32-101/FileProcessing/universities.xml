@@ -1,0 +1,14 @@
+<universities>
+  <university name="Harvard University">
+    <location>Cambridge, MA</location>
+    <rank>1</rank>
+  </university>
+  <university name="Stanford University">
+    <location>Palo Alto, CA</location>
+    <rank>2</rank>
+  </university>
+  <university name="Massachusetts Institute of Technology (MIT)">
+    <location>Cambridge, MA</location>
+    <rank>3</rank>
+  </university>
+</universities>

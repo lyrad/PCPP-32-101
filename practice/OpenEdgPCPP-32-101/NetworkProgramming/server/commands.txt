@@ -1,0 +1,9 @@
+# need version > 12 for json-server
+nvm install v18.15.0
+
+npm install -g json-server
+
+# Will serve http://localhost:3000/
+nvm use 18.15.0
+json-server --watch cars.json
+

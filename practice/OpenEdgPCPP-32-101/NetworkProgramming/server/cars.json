@@ -1,0 +1,116 @@
+{
+  "cars": [
+    {
+      "id": 3,
+      "brand": "Aston Martin Z",
+      "model": "300SL S",
+      "production_year": 1476,
+      "convertible": true
+    },
+    {
+      "id": 4,
+      "brand": "Maserati",
+      "model": "Mexico",
+      "production_year": 1970,
+      "convertible": false
+    },
+    {
+      "id": 5,
+      "brand": "Nissan",
+      "model": "Fairlady",
+      "production_year": 1974,
+      "convertible": false
+    },
+    {
+      "id": 6,
+      "brand": "Mercedes Benz",
+      "model": "300SL",
+      "production_year": 1967,
+      "convertible": true
+    },
+    {
+      "id": 7,
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false,
+      "id": 8
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false,
+      "id": 9
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false,
+      "id": 10
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false,
+      "id": 11
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false,
+      "id": 12
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false,
+      "id": 13
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false,
+      "id": 14
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false,
+      "id": 15
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false,
+      "id": 16
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false,
+      "id": 17
+    },
+    {
+      "brand": "Porsche",
+      "model": "911",
+      "production_year": 1963,
+      "convertible": false,
+      "id": 18
+    }
+  ]
+}
